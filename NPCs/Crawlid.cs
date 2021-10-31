@@ -1,10 +1,6 @@
-using System;
 using Terraria;
 using Terraria.ModLoader;
 using Terraria.ID;
-using Microsoft.Xna.Framework;
-using Mono.Cecil.Cil;
-using System.Security.Cryptography.X509Certificates;
 
 namespace RandomMobs.NPCs
 {
