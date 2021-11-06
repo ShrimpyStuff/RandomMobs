@@ -18,7 +18,7 @@ namespace RandomMobs.NPCs
             npc.height = 10;
             npc.damage = 25;
             this.noGravity = true;
-			this.noTileCollide = true;
+            this.noTileCollide = true;
             npc.lifeMax = 80;
         }
 
